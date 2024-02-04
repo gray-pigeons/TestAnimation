@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 1969850728
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_hot_prefabs.bundle
+      Dependencies:
+        Dependency_0: share_assets_hot_prefabs.bundle
+    Info_1:
+      Name: share_assets_hot_prefabs.bundle
+      Dependencies: {}

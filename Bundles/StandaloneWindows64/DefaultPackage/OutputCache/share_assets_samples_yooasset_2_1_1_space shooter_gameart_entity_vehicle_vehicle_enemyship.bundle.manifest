@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3125850220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d0f896bc07b2017e0ebe595d83bc76c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a107dc2e5b91368bb715249dde775ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_glow_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_nrm.tif
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip.FBX
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_metal_mat.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Vehicle/vehicle_enemyShip/vehicle_enemyShip_purple_dff.tif
+Dependencies:
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_entity_vehicle_vehicle_enemyship_materials.bundle
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_scene.bundle
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/unityshaders.bundle

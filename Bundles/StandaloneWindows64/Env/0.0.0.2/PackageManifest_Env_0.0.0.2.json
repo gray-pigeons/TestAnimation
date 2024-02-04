@@ -1,0 +1,43 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": true,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "Env",
+    "PackageVersion": "0.0.0.2",
+    "AssetList": [
+        {
+            "Address": "Plane",
+            "AssetPath": "Assets/Hot/Prefabs/Plane.prefab",
+            "AssetGUID": "d2230dca6e70e3b4d8de3dff57ab6838",
+            "AssetTags": [],
+            "BundleID": 0
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hot_prefabs.bundle",
+            "UnityCRC": 1124289004,
+            "FileHash": "46e0c62d69675f3e81467c793f1b35f7",
+            "FileCRC": "f657e2a0",
+            "FileSize": 46436,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                1
+            ]
+        },
+        {
+            "BundleName": "share_assets_hot_prefabs.bundle",
+            "UnityCRC": 4129684286,
+            "FileHash": "0980e2c0ccc8d928f5bc76499c44a19a",
+            "FileCRC": "47e14e29",
+            "FileSize": 43572,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

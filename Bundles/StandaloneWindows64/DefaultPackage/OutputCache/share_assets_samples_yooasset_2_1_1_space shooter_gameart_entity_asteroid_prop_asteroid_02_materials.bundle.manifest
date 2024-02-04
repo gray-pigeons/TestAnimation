@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 28962458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98bd4d4b6fe5c6d31678e33b2647fcc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Entity/Asteroid/prop_asteroid_02/Materials/prop_asteroid_02_mat.mat
+Dependencies: []

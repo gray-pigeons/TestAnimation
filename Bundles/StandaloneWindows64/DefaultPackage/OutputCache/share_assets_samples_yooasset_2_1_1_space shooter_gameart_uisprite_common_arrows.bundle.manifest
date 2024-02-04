@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3502457340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbc32d7824795572eb09679e79e456fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/plus.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/arrow_left.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/arrow1_right.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/back_arrow.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/long_arrow_left.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/arrow1_left.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/arrow_right.png
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/UISprite/common/arrows/long_arrow_right.png
+Dependencies: []

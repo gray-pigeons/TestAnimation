@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3135483596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c37a2d04bc864df8c4eb0f3e9cc39cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c98e928edf4df366ea4e32b10485fc3
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameRes/UIAtlas/common.spriteatlas
+Dependencies:
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_arrows.bundle
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_bars.bundle
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_buttons.bundle
+- E:/Project/UnityProject/Git/LocalGit/TestAnimation/TestAnimation/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_2_1_1_space
+  shooter_gameart_uisprite_common_window.bundle

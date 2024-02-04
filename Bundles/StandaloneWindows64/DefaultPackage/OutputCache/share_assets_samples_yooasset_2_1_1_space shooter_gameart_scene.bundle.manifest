@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2936354223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba4497f6daf4370dbd93d1d3a61d7f3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85feaa1460ca3f538dafd1b19ec4b99d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Scene/tile_nebula_green_dff.tif
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Scene/tile_nebula_green_dff.mat
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Scene/cube_junkyard_soft.cubemap
+- Assets/Samples/YooAsset/2.1.1/Space Shooter/GameArt/Scene/cube_junkyard_sharp.cubemap
+Dependencies: []

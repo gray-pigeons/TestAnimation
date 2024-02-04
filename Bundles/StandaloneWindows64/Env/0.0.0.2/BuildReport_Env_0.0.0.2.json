@@ -1,0 +1,75 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.1",
+        "UnityVersion": "2020.3.27f1c1",
+        "BuildDate": "2024/2/4 18:49:33",
+        "BuildSeconds": 1,
+        "BuildTarget": 19,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "Env",
+        "BuildPackageVersion": "0.0.0.2",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": true,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 2,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 90008,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Plane",
+            "AssetPath": "Assets/Hot/Prefabs/Plane.prefab",
+            "AssetGUID": "d2230dca6e70e3b4d8de3dff57ab6838",
+            "AssetTags": [],
+            "MainBundleName": "assets_hot_prefabs.bundle",
+            "MainBundleSize": 46436,
+            "DependAssets": [
+                "Assets/Hot/Prefabs/Cube.mat"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hot_prefabs.bundle",
+            "FileName": "46e0c62d69675f3e81467c793f1b35f7.bundle",
+            "FileHash": "46e0c62d69675f3e81467c793f1b35f7",
+            "FileCRC": "f657e2a0",
+            "FileSize": 46436,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_hot_prefabs.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Hot/Prefabs/Plane.prefab"
+            ]
+        },
+        {
+            "BundleName": "share_assets_hot_prefabs.bundle",
+            "FileName": "0980e2c0ccc8d928f5bc76499c44a19a.bundle",
+            "FileHash": "0980e2c0ccc8d928f5bc76499c44a19a",
+            "FileCRC": "47e14e29",
+            "FileSize": 43572,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Hot/Prefabs/Cube.mat"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

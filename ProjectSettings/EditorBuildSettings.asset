@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/HybridHot/Scn/Hotfix.unity
+  - enabled: 0
+    path: Assets/Hot/Scn/Hotfix.unity
     guid: 5f63d3e15afaf1d4db973ebddc9d1443
+  - enabled: 0
+    path: Assets/YooAsset/YooHotFix.unity
+    guid: 847debbc9d06a3140aa083ceee7e6c06
+  - enabled: 1
+    path: Assets/Samples/YooAsset/2.1.1/Space Shooter/Boot.unity
+    guid: 1dc11c7426b4b134aa6c0babe47515ae
   m_configObjects: {}
