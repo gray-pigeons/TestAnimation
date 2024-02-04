@@ -34,6 +34,7 @@
 	</assembly>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="ConsoleToScreen" preserve="nothing"/>
+		<type fullname="LoadABPack" preserve="nothing"/>
 		<type fullname="LoadDll" preserve="nothing"/>
 	</assembly>
 </linker>

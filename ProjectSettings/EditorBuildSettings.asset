@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Hot/Scn/Hotfix.unity
+    path: Assets/HybridHot/Scn/Hotfix.unity
     guid: 5f63d3e15afaf1d4db973ebddc9d1443
   m_configObjects: {}

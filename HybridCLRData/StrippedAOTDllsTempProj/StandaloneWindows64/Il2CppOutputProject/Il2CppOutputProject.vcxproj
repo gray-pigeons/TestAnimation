@@ -37,6 +37,8 @@
   <ItemGroup>
     <ClCompile Include="Source\il2cppOutput\Assembly-CSharp_CodeGen.c">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\HybridCLR.Runtime_CodeGen.c">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericClassTable.c">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericInstDefinitions.c">
@@ -143,6 +145,10 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics10.cpp">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Generics11.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Generics12.cpp">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics2.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics3.cpp">
@@ -158,6 +164,10 @@
     <ClCompile Include="Source\il2cppOutput\Generics8.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics9.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\HybridCLR.Runtime.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\HybridCLR.Runtime_Attr.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCalculateFieldValues.cpp">
     </ClCompile>
@@ -204,6 +214,18 @@
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions22.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions23.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions24.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions25.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions26.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions27.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions28.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions29.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions3.cpp">
     </ClCompile>
@@ -252,6 +274,8 @@
     <ClCompile Include="Source\il2cppOutput\mscorlib17.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\mscorlib18.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\mscorlib19.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\mscorlib2.cpp">
     </ClCompile>

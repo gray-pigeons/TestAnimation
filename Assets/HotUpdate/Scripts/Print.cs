@@ -13,4 +13,9 @@ public class Print : MonoBehaviour
     {
         Debug.LogWarning("Print ........Conselose.");
     }
+
+    private void PrivateMethod()
+    {
+        
+    }
 }
